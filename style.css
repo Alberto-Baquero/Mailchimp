@@ -1,0 +1,115 @@
+img {
+    width: 190px;
+}
+
+.logo {
+    width: 150px;
+    position: fixed;
+    top: 90px;
+    left: 25px;
+}
+
+.title_ {
+    position: fixed;
+    left: 240px;
+    top: 50px;
+}
+
+.text {
+    position: fixed;
+    width: 475px;
+    left: 240px;
+    top: 100px;
+}
+
+.email_title {
+    position: fixed;
+    left: 240px;
+    top: 150px;
+}
+
+.username_title {
+    position: fixed;
+    left: 240px;
+    top: 220px;
+}
+
+.password_title {
+    position: fixed;
+    left: 240px;
+    top: 305px;
+}
+
+form {
+    position: fixed;
+    left: 240px;
+}
+
+.cage_email {
+    position: fixed;
+    top: 195px;
+    left: 240px;
+    width: 450px;
+    height: 35px;
+}
+
+.cage_username {
+    position: fixed;
+    top: 270px;
+    left: 240px;
+    width: 450px;
+    height: 35px;
+}
+
+.cage_password {
+    position: fixed;
+    top: 350px;
+    left: 240px;
+    width: 450px;
+    height: 35px;
+}
+
+.column1 {
+    position: fixed;
+    left: 215px;
+    top: 410px;
+}
+
+.column2 {
+    position: fixed;
+    left: 415px;
+    top: 410px;
+}
+
+.singup {
+    position: fixed;
+    top: 510px;
+    left: 240px;
+    width: 135px;
+    height: 50px;
+}
+
+.checkbox {
+    position: fixed;
+    top: 507px;
+    left: 400px;
+}
+
+.special_offers {
+    position: fixed;
+    top: 490px;
+    left: 425px;
+    width: 300px;
+}
+
+.terms {
+    position: fixed;
+    top: 600px;
+    left: 240px;
+    width: 522px;
+    font-size: medium;
+}
+
+.Privacy {
+    color: #23707e;
+}
